@@ -5,7 +5,7 @@ import java.util.*;
 public class Testtt {
 
     public static void main(String[] args) {
-        /*String Centence = new String(" I wanna go home, take off this uniform and leave the show.");
+        String Centence = new String(" I wanna go home, take off this uniform and leave the show.");
 
         System.out.println(Centence.trim());
         Centence=Centence.trim();
@@ -13,15 +13,15 @@ public class Testtt {
         System.out.println(Centence.endsWith("show."));
         System.out.println(Centence.contains("ff t"));*/
 
-        /*HashSet<Integer> phoneNumbers = new HashSet<>();
+        HashSet<Integer> phoneNumbers = new HashSet<>();
 
-        for (int i = 1 ;i <= 90; i++){
+        for (int i = 0 ;i <= 90; i++){
 
             phoneNumbers.add((int) (Math.random() * 200 + 300));
         }
         System.out.println(phoneNumbers);
 
-        ///////////////////////////////*/
+        //////////////////////////////
 
         HashMap<String, Integer> Contacts = new HashMap<>();
 
