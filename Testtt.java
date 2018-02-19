@@ -15,7 +15,7 @@ public class Testtt {
 
         HashSet<Integer> phoneNumbers = new HashSet<>();
 
-        for (int i = 0 ;i <= 90; i++){
+        for (int i = 2 ;i <= 90; i++){
 
             phoneNumbers.add((int) (Math.random() * 200 + 300));
         }
