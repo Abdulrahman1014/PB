@@ -13,7 +13,7 @@ public class Testtt {
         System.out.println(Centence.endsWith("show."));
         System.out.println(Centence.contains("ff t"));*/
 
-        /*HashSet<Integer> phoneNumbers = new HashSet<>();
+        HashSet<Integer> phoneNumbers = new HashSet<>();
 
         for (int i = 1 ;i <= 90; i++){
 
@@ -21,7 +21,7 @@ public class Testtt {
         }
         System.out.println(phoneNumbers);
 
-        ///////////////////////////////*/
+
 
         HashMap<String, Integer> Contacts = new HashMap<>();
 
